@@ -1,7 +1,6 @@
 # Java-SpringBoot-GlobalExceptionHandler
 Java SpringBoot GlobalExceptionHandler
 
-localhost:8080/users
 
 GET:localhost:8080/users
 ```
